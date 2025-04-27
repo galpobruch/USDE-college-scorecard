@@ -1,2 +1,2 @@
-# USDE_college_scorecard
+# USDE College Scorecard
 This repository includes Python scripts created on the Kaggle platform for personal training & exploration of Data Science tools and concepts. Herein, Kaggle Python notebooks explore a United States Department of Education Universities data from 1996 to 2023. Together with US News ranking of the Top 150 National Universities, we explore distribution between states, tuition distribution, and compare in-state vs. out-of-state, public vs. private, and utilize Geospatial Analysis tools (GeoPandas & Folium) to display some of those insights.
